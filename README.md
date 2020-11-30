@@ -1,3 +1,2 @@
 # Ordine_numeri
-# h
-# f
+Semplice programma usato per esercitare l'uso della memoria dinamica con puntatori e array
