@@ -73,7 +73,8 @@ int main()
 
 		delete[]Array;
 		delete ptrCC;
-
+		
+		//controllo utente per l'uscita dal programma (system("pause") era troppo scontato)
 		while (true)
 		{
 			cout << "press Enter to continue the exercise, press ESC to close the program\n";
@@ -92,4 +93,5 @@ int main()
 			}
 		}
 	}
+	return 0;
 }
